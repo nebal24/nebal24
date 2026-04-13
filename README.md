@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=c,java,html,css,js,git)
+
+![Assembly](https://img.shields.io/badge/Assembly-gray?style=for-the-badge)
+![PIC18](https://img.shields.io/badge/PIC18-blue?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-purple?style=for-the-badge)
