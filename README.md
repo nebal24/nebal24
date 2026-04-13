@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nebal24&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nebal24&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=nebal24&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nebal24&layout=compact&theme=default" />
 </p>
