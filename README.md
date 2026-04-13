@@ -27,9 +27,3 @@ Here are some ideas to get you started:
 ![VHDL](https://img.shields.io/badge/VHDL-purple?style=for-the-badge)
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=nebal24&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nebal24&layout=compact&theme=default" />
-</p>
