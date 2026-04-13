@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 ![Assembly](https://img.shields.io/badge/Assembly-gray?style=for-the-badge)
 ![PIC18](https://img.shields.io/badge/PIC18-blue?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-purple?style=for-the-badge)
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nebal24&show_icons=true&theme=tokyonight)
