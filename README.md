@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nebal24&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nebal24&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=nebal24&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=nebal24&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebal24&layout=compact&theme=tokyonight)
