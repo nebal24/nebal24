@@ -1,5 +1,9 @@
-## Hi there 👋
+## 👋 Hi there
 
+I'm a Computer Engineering student interested in:
+- Embedded Systems (PIC, Assembly)
+- Digital Design (VHDL)
+- Web Development
 <!--
 **nebal24/nebal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
