@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 -->
 ## 💻 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=c,java,html,css,js,git)![Assembly](https://img.shields.io/badge/Assembly-gray?style=for-the-badge)![PIC18](https://img.shields.io/badge/PIC18-blue?style=for-the-badge)![VHDL](https://img.shields.io/badge/VHDL-purple?style=for-the-badge)
-
-
+![Tech Stack](https://skillicons.dev/icons?i=c,java,html,css,js,git)![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat&logo=gnu)
+![PIC](https://img.shields.io/badge/PIC-00599C?style=flat)
+![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat)
