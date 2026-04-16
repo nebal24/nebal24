@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+<!--
 ## 💻 Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=c,java,html,css,js,git)
