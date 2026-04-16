@@ -1,4 +1,5 @@
-## 👋 Hi there
+
+<!--## 👋 Hi there
 
 I'm a Computer Engineering student interested in:
 - Software Development
@@ -28,3 +29,6 @@ Here are some ideas to get you started:
 ![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat&logo=gnu)
 ![PIC](https://img.shields.io/badge/PIC-00599C?style=flat)
 ![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat)
+
+
+-->
