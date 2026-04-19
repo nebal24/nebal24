@@ -1,4 +1,4 @@
-## 🧠 About This Repository
+##  About This Repository
 
 This repository is actually my GitHub profile page.  
 GitHub has a feature where if you create a repository with the same name as your username, the README file shows up on your profile.
