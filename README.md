@@ -1,36 +1,74 @@
 
-<!--## 👋 Hi there
+#
+<!--Hi, I'm Nebal 👋
 
-I'm a Computer Engineering student interested in:
-- Software Development
-- Embedded Systems 
-- Digital Design
-- Web Development
-  
-<!--
-**nebal24/nebal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-Year Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 I build systems across backend and embedded development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
-<!--
-## 💻 Tech Stack
+---
 
-![Tech Stack](https://skillicons.dev/icons?i=c,java,html,css,js,git)
+## 🧠 About Me
 
+I’ve worked on a wide range of projects across software and hardware, including backend systems, database-driven applications, and embedded systems.
 
-![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat&logo=gnu)
-![PIC](https://img.shields.io/badge/PIC-00599C?style=flat)
-![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat)
+My focus is on building complete systems—whether that’s a backend service, a structured application, or a microcontroller-based solution.
 
+---
+
+## 🛠️ What I Work With
+
+### 💻 Software & Backend
+
+* Java
+* Spring Boot
+* REST APIs and backend system design
+* Database-based applications
+
+### 🔌 Embedded Systems
+
+* C / Embedded C
+* PIC microcontrollers and Arduino
+* Sensor-based systems and hardware interfacing
+
+### 🧩 Foundations
+
+* C, C++
+* Data structures and system-level thinking
+* Digital systems and microcontrollers
+
+---
+
+## 📌 Projects
+
+### 📚 Library Management System
+
+A full Java-based system handling users, roles, borrowing logic, and system rules.
+
+### 🚨 Wasel Palestine
+
+Backend system built with Spring Boot, including authentication, alerts, and structured API design.
+
+### 🧠 Compiler Project
+
+Implementation of lexical analysis and parsing concepts.
+
+### 🔌 Automatic Door Controller
+
+Embedded system using a microcontroller, sensors, and real-time control logic.
+
+---
+
+## 🎯 What I'm Focused On
+
+* Building cleaner and more structured systems
+* Strengthening backend design and architecture
+* Improving embedded system integration and control
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/nebal24
 
 -->
