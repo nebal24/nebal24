@@ -1,53 +1,59 @@
+# Hi, I'm Nebal 👋
 
-#
-<!--Hi, I'm Nebal 👋
-
-🎓 4th-Year Computer Engineering Student
-
-💻 I build systems across backend and embedded development
+🎓 4th-Year Computer Engineering Student  
+💻 Backend & Embedded Systems
 
 ---
 
 ## 🧠 About Me
 
-I’ve worked on a wide range of projects across software and hardware, including backend systems, database-driven applications, and embedded systems.
+I enjoy building complete systems across both software and hardware — from backend services and APIs to embedded and microcontroller-based projects.
 
-My focus is on building complete systems—whether that’s a backend service, a structured application, or a microcontroller-based solution.
+My main interests are backend development, system design, and embedded systems.
 
 ---
 
-## 🛠️ What I Work With
 
-### 💻 Software & Backend
+## 🛠️ Tech Stack
 
-* Java
-* Spring Boot
-* REST APIs and backend system design
-* Database-based applications
+<table>
+<tr>
+<td width="82%">
 
-### 🔌 Embedded Systems
+| Area | Tools / Technologies |
+|---|---|
+| **Backend** | Java · Spring Boot · REST APIs |
+| **Databases** | PostgreSQL · MySQL |
+| **Embedded** | PIC · Arduino · Embedded C |
+| **Languages** | Java · C · C++ · JavaScript · PHP |
+| **Foundations** | Data Structures · OOP · Digital Systems |
 
-* C / Embedded C
-* PIC microcontrollers and Arduino
-* Sensor-based systems and hardware interfacing
+</td>
 
-### 🧩 Foundations
+<td align="left" valign="bottom">
 
-* C, C++
-* Data structures and system-level thinking
-* Digital systems and microcontrollers
+```txt
+ ╱\_
+(` - 7
+|、⁻ 〵
+じしˍ,)ノ
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Projects
 
-### 📚 Library Management System
-
-A full Java-based system handling users, roles, borrowing logic, and system rules.
-
 ### 🚨 Wasel Palestine
 
-Backend system built with Spring Boot, including authentication, alerts, and structured API design.
+Backend system built with Spring Boot including authentication, alerts, moderation workflows, duplicate detection, and structured API design.
+
+### 📚 Library Management System
+
+Java-based system handling users, borrowing logic, and role-based operations.
 
 ### 🧠 Compiler Project
 
@@ -55,20 +61,18 @@ Implementation of lexical analysis and parsing concepts.
 
 ### 🔌 Automatic Door Controller
 
-Embedded system using a microcontroller, sensors, and real-time control logic.
+Embedded system using sensors and real-time microcontroller logic.
 
 ---
 
-## 🎯 What I'm Focused On
+## 🎯 Current Focus
 
-* Building cleaner and more structured systems
-* Strengthening backend design and architecture
-* Improving embedded system integration and control
+- Backend architecture & APIs
+- Embedded systems integration
+- Building cleaner and more scalable systems
 
 ---
 
 ## 📫 Contact
 
-* GitHub: https://github.com/nebal24
-
--->
+- GitHub: https://github.com/nebal24
